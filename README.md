@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Beegala</h1>
 <h3 align="center">Aspiring Full Stack Developer | Java Enthusiast | Spring Boot Learner</h3>
 
-<p align="center">
-  <a href="https://github.com/Manoj23-ai">
-    <img src="https://komarev.com/ghpvc/?username=Manoj23-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
